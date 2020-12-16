@@ -1,1 +1,5 @@
-# guard-kingdoms
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
